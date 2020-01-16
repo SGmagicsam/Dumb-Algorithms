@@ -3,3 +3,4 @@ def boolsRealm(n):
 		return bool(1 - n)
 	else:
 		return 1 - boolsRealm(n - 1)
+
