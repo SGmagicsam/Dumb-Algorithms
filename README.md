@@ -1,2 +1,2 @@
 # Algorithms:
-#### Bools Realm: function for determining whether or not a number is even ft.recursion
+#### Bools Realm: determines whether or not an integer from the set [-992, 992] is even or odd
