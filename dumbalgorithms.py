@@ -1,4 +1,5 @@
 def boolsRealm(n):
+	
 	if n < 1:
 		return bool(1 - n)
 	else:
